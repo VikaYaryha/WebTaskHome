@@ -1,0 +1,32 @@
+.heading {
+    background-color: rgb(22, 109, 208);
+    color: gold;
+    text-align: center;
+}
+
+body{
+    font-family: sans-serif;
+    background-position: center;
+    background-image:url(https://kartinkin.net/pics/uploads/posts/2022-08/1659579092_57-kartinkin-net-p-patterni-oblaka-krasivo-60.jpg);
+}
+
+ img {
+    width:auto;
+	height: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+ }
+
+ a {
+    color: blue;
+}
+
+.tableau{
+    border: 1px solid black;
+	width: 300px;
+	height: 60px;
+    text-align: center;
+    margin-left: 600px;
+}
+
